@@ -1,0 +1,68 @@
+{
+  "jobCards": [
+    {
+      "id": 1,
+      "promoted": "Promoted",
+      "jobTitle": "UI/UX Designer",
+      "company": "Teams",
+      "jobType": "Seattle, USA (Remote)",
+      "postedDay": "1 day ago"
+    },
+    {
+      "id": 2,
+      "promoted": "Featured",
+      "jobTitle": "Frontend Developer",
+      "company": "TechCorp",
+      "jobType": "New York, USA (Hybrid)",
+      "postedDay": "2 days ago"
+    },
+    {
+      "id": 3,
+      "promoted": "Promoted",
+      "jobTitle": "Product Manager",
+      "company": "StartupXYZ",
+      "jobType": "San Francisco, USA (On-site)",
+      "postedDay": "3 days ago"
+    },
+    {
+      "id": 4,
+      "promoted": "Hot",
+      "jobTitle": "Full Stack Developer",
+      "company": "DevStudio",
+      "jobType": "Austin, USA (Remote)",
+      "postedDay": "5 days ago"
+    },
+    {
+      "id": 5,
+      "promoted": "New",
+      "jobTitle": "Data Scientist",
+      "company": "DataFlow Inc",
+      "jobType": "Boston, USA (Hybrid)",
+      "postedDay": "1 week ago"
+    },
+    {
+      "id": 6,
+      "promoted": "Promoted",
+      "jobTitle": "Mobile Developer",
+      "company": "AppWorks",
+      "jobType": "Los Angeles, USA (Remote)",
+      "postedDay": "4 days ago"
+    },
+    {
+      "id": 7,
+      "promoted": "Featured",
+      "jobTitle": "DevOps Engineer",
+      "company": "CloudTech",
+      "jobType": "Denver, USA (On-site)",
+      "postedDay": "6 days ago"
+    },
+    {
+      "id": 8,
+      "promoted": "Urgent",
+      "jobTitle": "Graphic Designer",
+      "company": "Creative Labs",
+      "jobType": "Miami, USA (Hybrid)",
+      "postedDay": "2 days ago"
+    }
+  ]
+}
